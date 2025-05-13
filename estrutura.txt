@@ -1,0 +1,15 @@
+s4-networks-red-black/
+├── index.html
+├── css/
+│   ├── style.css
+│   └── responsive.css
+├── js/
+│   └── script.js
+├── images/
+│   ├── logo.png
+│   ├── hero-bg.jpg
+│   ├── noc-icon.png
+│   └── soc-icon.png
+└── assets/
+    ├── icons/
+    └── fonts/
